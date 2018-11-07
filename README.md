@@ -3,6 +3,8 @@ Interactive visualization of biodiversity of national parks in Processing. It sh
 
 ![Home screen](/images/homescreen.png)
 
+![Details screen](/images/detailsscreen.png)
+
 ## Installation / Usage
 To use the application you need to have Java 8 installed, which can be downloaded from [https://java.com/en/download/](https://java.com/en/download/).
 
