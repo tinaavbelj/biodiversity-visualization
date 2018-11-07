@@ -1,5 +1,5 @@
 # Biodiversity visualization
-Interactive visualization of biodiversity of national parks in Processing. It shows parks on the map and by clicking on a specific park you can access more details about the species that can be found in the park.
+Interactive visualization of biodiversity of national parks in Processing. It shows parks on a map and by clicking on a specific park you can access more details about the species that can be found in the park.
 
 ![Home screen](/images/homescreen.png)
 
