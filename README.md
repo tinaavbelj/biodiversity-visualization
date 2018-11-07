@@ -1,5 +1,7 @@
 # Biodiversity visualization
-Interactive visualization of biodiversity of national parks in Processing.
+Interactive visualization of biodiversity of national parks in Processing. It shows the national parks on the map of the US. By clicking a specific park you can see more details about the species that can be found in the park.
+
+![Home screen](/images/homescreen.png)
 
 ## Installation / Usage
 To use the application you need to have Java 8 installed, which can be downloaded from [https://java.com/en/download/](https://java.com/en/download/).
