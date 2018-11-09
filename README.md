@@ -10,7 +10,7 @@ To run the application on Mac OS X operating system open the `Biodiversity/appli
 ### Windows 32-bit/64-bit
 To run the application on Windows operating system open the `Biodiversity/application.windows32/Biodiversity.exe` or `Biodiversity/application.windows64/Biodiversity.exe` file, depending on your system's architecture.
 
-### Preview
+## Preview
 
 ![Biodivesity screen](/images/biodiversity.gif)
 
